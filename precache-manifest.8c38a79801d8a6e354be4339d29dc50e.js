@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f26d3f04617fdc65a24d34e2a24cd0c",
+    "revision": "f27de53874154e3873818e2d0e955a06",
     "url": "/how-long-does-vic-have/index.html"
   },
   {
-    "revision": "bcb5c36b75612d6e91cd",
-    "url": "/how-long-does-vic-have/static/css/main.9ac41a1b.chunk.css"
+    "revision": "d429818ff13656d6743b",
+    "url": "/how-long-does-vic-have/static/css/main.4e14056c.chunk.css"
   },
   {
-    "revision": "c87df43e237f76e59ab2",
-    "url": "/how-long-does-vic-have/static/js/2.34dfe9fa.chunk.js"
+    "revision": "b98f1c1740871fae4192",
+    "url": "/how-long-does-vic-have/static/js/2.081311b2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/how-long-does-vic-have/static/js/2.34dfe9fa.chunk.js.LICENSE.txt"
+    "url": "/how-long-does-vic-have/static/js/2.081311b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcb5c36b75612d6e91cd",
-    "url": "/how-long-does-vic-have/static/js/main.bb6b3858.chunk.js"
+    "revision": "d429818ff13656d6743b",
+    "url": "/how-long-does-vic-have/static/js/main.230a1883.chunk.js"
   },
   {
     "revision": "70701e632ec4b0628870",
