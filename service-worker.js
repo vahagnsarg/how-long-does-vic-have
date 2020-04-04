@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/how-long-does-vic-have/precache-manifest.7a116d75c86348ff0503c95668cb57ff.js"
+  "/how-long-does-vic-have/precache-manifest.5c044af09eb2eff4603fdce7e9901b06.js"
 );
 
 self.addEventListener('message', (event) => {
