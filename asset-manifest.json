@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/how-long-does-vic-have/static/css/main.d2394017.chunk.css",
-    "main.js": "/how-long-does-vic-have/static/js/main.1e05de0b.chunk.js",
-    "main.js.map": "/how-long-does-vic-have/static/js/main.1e05de0b.chunk.js.map",
+    "main.css": "/how-long-does-vic-have/static/css/main.d3762951.chunk.css",
+    "main.js": "/how-long-does-vic-have/static/js/main.e75ceaa7.chunk.js",
+    "main.js.map": "/how-long-does-vic-have/static/js/main.e75ceaa7.chunk.js.map",
     "runtime-main.js": "/how-long-does-vic-have/static/js/runtime-main.5c84e4c9.js",
     "runtime-main.js.map": "/how-long-does-vic-have/static/js/runtime-main.5c84e4c9.js.map",
-    "static/js/2.d560540c.chunk.js": "/how-long-does-vic-have/static/js/2.d560540c.chunk.js",
-    "static/js/2.d560540c.chunk.js.map": "/how-long-does-vic-have/static/js/2.d560540c.chunk.js.map",
+    "static/js/2.bbc9fa48.chunk.js": "/how-long-does-vic-have/static/js/2.bbc9fa48.chunk.js",
+    "static/js/2.bbc9fa48.chunk.js.map": "/how-long-does-vic-have/static/js/2.bbc9fa48.chunk.js.map",
     "index.html": "/how-long-does-vic-have/index.html",
-    "precache-manifest.4104479c02e73fac9a0cacce4489ab77.js": "/how-long-does-vic-have/precache-manifest.4104479c02e73fac9a0cacce4489ab77.js",
+    "precache-manifest.f7f81825617ca180536dd8c5b4842546.js": "/how-long-does-vic-have/precache-manifest.f7f81825617ca180536dd8c5b4842546.js",
     "service-worker.js": "/how-long-does-vic-have/service-worker.js",
-    "static/css/main.d2394017.chunk.css.map": "/how-long-does-vic-have/static/css/main.d2394017.chunk.css.map",
-    "static/js/2.d560540c.chunk.js.LICENSE.txt": "/how-long-does-vic-have/static/js/2.d560540c.chunk.js.LICENSE.txt",
+    "static/css/main.d3762951.chunk.css.map": "/how-long-does-vic-have/static/css/main.d3762951.chunk.css.map",
+    "static/js/2.bbc9fa48.chunk.js.LICENSE.txt": "/how-long-does-vic-have/static/js/2.bbc9fa48.chunk.js.LICENSE.txt",
     "static/media/OldTimer.css": "/how-long-does-vic-have/static/media/sechand.2804fed3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5c84e4c9.js",
-    "static/js/2.d560540c.chunk.js",
-    "static/css/main.d2394017.chunk.css",
-    "static/js/main.1e05de0b.chunk.js"
+    "static/js/2.bbc9fa48.chunk.js",
+    "static/css/main.d3762951.chunk.css",
+    "static/js/main.e75ceaa7.chunk.js"
   ]
 }
