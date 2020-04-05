@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "412477f01742c8565c1e178fd4109f4c",
+    "revision": "e4b623d5f996c6cb43ef83ae720c44fe",
     "url": "/how-long-does-vic-have/index.html"
   },
   {
-    "revision": "69b1bc3ebfa40af3e90b",
-    "url": "/how-long-does-vic-have/static/css/main.8bd8696b.chunk.css"
+    "revision": "a9d3ca637e8c30e2aa9d",
+    "url": "/how-long-does-vic-have/static/css/main.f33ef27f.chunk.css"
   },
   {
     "revision": "1f597b8f81171f28793b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/how-long-does-vic-have/static/js/2.ba468b27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69b1bc3ebfa40af3e90b",
+    "revision": "a9d3ca637e8c30e2aa9d",
     "url": "/how-long-does-vic-have/static/js/main.1fa407cc.chunk.js"
   },
   {
