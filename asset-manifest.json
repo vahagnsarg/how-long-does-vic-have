@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/how-long-does-vic-have/static/css/main.c26501cc.chunk.css",
+    "main.css": "/how-long-does-vic-have/static/css/main.8bd8696b.chunk.css",
     "main.js": "/how-long-does-vic-have/static/js/main.1fa407cc.chunk.js",
     "main.js.map": "/how-long-does-vic-have/static/js/main.1fa407cc.chunk.js.map",
     "runtime-main.js": "/how-long-does-vic-have/static/js/runtime-main.5c84e4c9.js",
@@ -8,9 +8,9 @@
     "static/js/2.ba468b27.chunk.js": "/how-long-does-vic-have/static/js/2.ba468b27.chunk.js",
     "static/js/2.ba468b27.chunk.js.map": "/how-long-does-vic-have/static/js/2.ba468b27.chunk.js.map",
     "index.html": "/how-long-does-vic-have/index.html",
-    "precache-manifest.a2612cc74a5d3b17bed9158ec23047e1.js": "/how-long-does-vic-have/precache-manifest.a2612cc74a5d3b17bed9158ec23047e1.js",
+    "precache-manifest.9b3476fa99ec16ccb2c62f0a11cd3c1d.js": "/how-long-does-vic-have/precache-manifest.9b3476fa99ec16ccb2c62f0a11cd3c1d.js",
     "service-worker.js": "/how-long-does-vic-have/service-worker.js",
-    "static/css/main.c26501cc.chunk.css.map": "/how-long-does-vic-have/static/css/main.c26501cc.chunk.css.map",
+    "static/css/main.8bd8696b.chunk.css.map": "/how-long-does-vic-have/static/css/main.8bd8696b.chunk.css.map",
     "static/js/2.ba468b27.chunk.js.LICENSE.txt": "/how-long-does-vic-have/static/js/2.ba468b27.chunk.js.LICENSE.txt",
     "static/media/OldTimer.css": "/how-long-does-vic-have/static/media/sechand.2804fed3.png",
     "static/media/vic.png": "/how-long-does-vic-have/static/media/vic.7cdde125.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5c84e4c9.js",
     "static/js/2.ba468b27.chunk.js",
-    "static/css/main.c26501cc.chunk.css",
+    "static/css/main.8bd8696b.chunk.css",
     "static/js/main.1fa407cc.chunk.js"
   ]
 }
